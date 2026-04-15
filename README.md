@@ -6,7 +6,7 @@ Hi 👋 My name is Thiago Ivens
 
 ### Socials
 
-<div align="center" width="100%">
+<div align="left" style="display: flex;" >
   <a href="https://www.github.com/ThiagoIvens" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
   </a>
