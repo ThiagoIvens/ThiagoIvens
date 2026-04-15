@@ -6,17 +6,7 @@ Hi 👋 My name is Thiago Ivens
 
 ### Socials
 
-<div align="left">
-  <a href="https://www.github.com/ThiagoIvens" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/thiago-rech/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-  <a href="https://stackoverflow.com/users/16407548/thiago-rech" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="StackOverflow" />
-  </a>
-</div>
+[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/ThiagoIvens) [![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/thiago-rech/) [![StackOverflow](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg)](https://stackoverflow.com/users/16407548/thiago-rech)
 
 ### Badges
 
